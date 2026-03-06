@@ -16,6 +16,7 @@ Soy desarrollador web enfocado en soluciones simples y efectivas para negocios c
 - Restaurantes
 - Gimnasios
 - Profesionales independientes
+- Y muchos mas!!!
 
 Mi objetivo es crear **landing pages que conviertan visitantes en clientes**.
 
