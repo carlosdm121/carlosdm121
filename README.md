@@ -1,4 +1,4 @@
-# 👋 Hola, soy Carlos Martinez
+# 👋 Hola, soy Daniel Martinez
 
 💻 **Desarrollador Web** enfocado en crear **Landing Pages modernas para negocios**.  
 🚀 Me especializo en páginas rápidas, optimizadas para móviles y con integración a **WhatsApp para generar clientes**.
