@@ -37,8 +37,8 @@ Mi objetivo es crear **landing pages que conviertan visitantes en clientes**.
 🔹 **Landing Page Barbería**  
 Landing page moderna con botón de reserva por WhatsApp.
 
-🔹 **Landing Page Estética**  
-Página optimizada para mostrar servicios y atraer nuevos clientes.
+🔹 **Landing Page La Codorniz**  
+Página optimizada para mostrar venta de productos avícolas y productos comestibles para atraer nuevos clientes.
 
 🔹 **Landing Page Restaurante**  
 Diseño visual con menú y contacto directo.
