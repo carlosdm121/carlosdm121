@@ -40,7 +40,7 @@ Landing page moderna con botón de reserva por WhatsApp.
 🔹 **Landing Page La Codorniz**  
 Página optimizada para mostrar venta de productos avícolas y productos comestibles para atraer nuevos clientes.
 
-🔹 **Landing Page Restaurante**  
+🔹 **Landing Page Hamburguesería**  
 Diseño visual con menú y contacto directo.
 
 🔹 **Landing Page Gimnasio**  
